@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 
 Anyway, thank you for stopping by my profile!  
 
-- ✍🛠🧠 I’m currently working on Neural Networks.
-- 🌱 I’m currently learning `Object Interface Generator/Reader (OIG/OIR)` code.
+- ✍🛠🧠 I’m currently working on neural networks and 🌱 learning `Object Interface Generator/Reader (OIG/OIR)`.
