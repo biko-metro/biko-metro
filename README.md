@@ -2,8 +2,7 @@
 ---
 
 > ### Hi there!!! 🖐!
-> ### You! 👉 Yes you!
-> ### Never mind, just kidding, move on nothing to see here!
+> ### Welcome, let's dive into code!
 ---
 
 <!--
